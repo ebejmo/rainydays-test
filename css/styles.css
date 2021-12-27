@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Raleway";
+  src: url(../fonts/Raleway/Raleway-VariableFont_wght.ttf);
+}
+
+body {
+  font-family: "Source Sans Pro", Verdana, Geneva, Tahoma, sans-serif;
+  color: #131b13;
+}
+
+h1,
+h2,
+h3 .nav {
+  font-family: "Raleway";
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.cta {
+  font-family: "Raleway";
+  font-weight: 500;
+}
